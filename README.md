@@ -1,4 +1,4 @@
-# 🎌 Rodesani — Anime Streaming Site
+# 🎌 Rodesani Anime Streaming Site
 
 A clean, fast anime streaming site built with React + Vite.
 Anime data from **Jikan API** (MyAnimeList), streaming via **Miruro.tv**.
